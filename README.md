@@ -1,5 +1,5 @@
 # 💫 About Me:
-HeyBuddy — a real-time full-stack chat application<br>Full-stack web apps and AI-powered developer tools<br>System design and backend architecture patterns<br>WebSocket architecture, Redis, and backend system design<br>React, Node.js, WebSockets, REST APIs, and Gemini AI integration<br>I build apps that solve problems I personally face as a developer
+I build apps that solve problems I personally face as a developer
 
 
 ## 🌐 Socials:
