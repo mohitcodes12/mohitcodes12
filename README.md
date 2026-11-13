@@ -161,9 +161,3 @@
 - ⚙️ Automate repetitive reporting with Python scripts
 
 ---
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohitcodes12&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/
