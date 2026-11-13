@@ -162,18 +162,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-| Project | What it does | Tech |
-|---|---|---|
-| [🧠 MNIST Digit Classifier](https://github.com/mohitcodes12/mnist-digit-classifier) | Beginner-friendly neural network for handwritten digit recognition | Python, TensorFlow, Keras |
-| [💬 HeyBuddy](https://github.com/mohitcodes12/HeyBuddy) | Real-time chat app with rooms, JWT auth and live online presence | Node.js, Socket.io, MongoDB |
-| [🥾 Trail-Sync](https://github.com/mohitcodes12/Trail-Sync) | Trail app | JavaScript |
-| [📱 Trail-Sync PWA](https://github.com/mohitcodes12/Trail-Sync-PWA) | Progressive web app version of Trail-Sync | TypeScript |
-| [🌐 Kailash-Web](https://github.com/mohitcodes12/Kailash-Web) | Web project | TypeScript |
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
